@@ -7,9 +7,9 @@
 
 ## Work experience
 
-### **Software Engineer**
+### Software Engineer
 
-**Recurseeve***, Tours, France (May 2021 - Today)*
+**Recurseeve**, *Tours, France (May 2021 - Today)*
 
 Full-stack engineer in the team responsible for the Recurseeve SaaS offer.
 
@@ -17,9 +17,9 @@ Doing what needs to be done, ranging from front-end development with Angular to 
 
 Enjoying helping everyone to perform at their best !
 
-### **Software Engineer**
+### Software Engineer
 
-**Worldline***, Blois, France (June 2016 - May 2021)*
+**Worldline**, *Blois, France (June 2016 - May 2021)*
 
 Full-stack engineer in the team responsible for Up (Chèque Déjeuner) transactions and platform.
 
@@ -43,7 +43,7 @@ I enjoy writing about technical subjects and I feel I can do a pretty good job a
 
 ## Education
 
-### Master **Degree in Information and Computer Systems**
+### Master Degree in Information and Computer Systems
 
 *2013 - 2018*
 
@@ -61,6 +61,6 @@ Native speaker
 
 Proficient speaker 
 
-### Spanish
+### 🇪🇸 Spanish
 
 Proficient listener
