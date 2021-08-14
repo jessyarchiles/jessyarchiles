@@ -1,10 +1,9 @@
-## Hi there 👋
+### Hi there 👋
 
 > I'm a Full Stack Web Developer based in Orléans *with 5 years of experience in the banking software industry* and currently working on a SaaS subcription managment solution. 
 
-My focus area for the past few years has been front-end development with Vue.js and Angular, but I'm also skilled in back-end development with Java or Node.js.
+> My focus area for the past few years has been front-end development with Vue.js and Angular, but I'm also skilled in back-end development with Java or Node.js.
 
----
 
 ## Work experience
 
